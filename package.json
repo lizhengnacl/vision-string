@@ -1,7 +1,8 @@
 {
   "name": "vision-string",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "字符串视觉感官上的长度计算方案",
+  "url": "https://github.com/lizhengnacl/vision-string",
   "main": "index.js",
   "scripts": {
     "test": "ava --watch"
