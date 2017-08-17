@@ -1,0 +1,15 @@
+{
+  "name": "vision-string",
+  "version": "0.0.3",
+  "description": "字符串视觉感官上的长度计算方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
