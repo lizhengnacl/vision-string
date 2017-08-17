@@ -1,6 +1,6 @@
 {
   "name": "vision-string",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "字符串视觉感官上的长度计算方案",
   "url": "https://github.com/lizhengnacl/vision-string",
   "main": "index.js",
